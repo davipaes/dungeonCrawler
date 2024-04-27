@@ -558,7 +558,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c9c2e1ec0c0b3244e8d082a1d05e30cb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Player: {fileID: 321404238}
+  Player: {fileID: 0}
   suavizacao: 5
 --- !u!1 &621587114
 GameObject:
